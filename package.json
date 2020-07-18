@@ -1,6 +1,6 @@
 {
   "name": "sshdemo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ssh is a demo in test",
   "main": "index.js",
   "scripts": {
