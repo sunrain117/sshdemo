@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "sshdemo"
+    "sshdemo",
+    "testing"
   ],
   "repository": {"url": "https://github.com/sunrain117/sshdemo.git"},
   "author": "yangguangsida@sina.com",
