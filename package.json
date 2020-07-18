@@ -9,6 +9,7 @@
   "keywords": [
     "sshdemo"
   ],
+  "repository": {"url": "https://github.com/sunrain117/sshdemo.git"},
   "author": "yangguangsida@sina.com",
   "license": "ISC"
 }
