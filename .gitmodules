@@ -1,3 +1,6 @@
 [submodule "App/submodules/sub1"]
 	path = App/submodules/sub1
 	url = https://github.com/sunrain117/subdemo.git
+[submodule "App/submodules/sub2"]
+	path = App/submodules/sub2
+	url = https://github.com/sunrain117/subdemo1.git
